@@ -1,9 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 
 
-h1, h2 {
-    margin: 0 auto;
-}
 body {
     background-color: #d21034;
     font-family: "Montserrat",sans-serif;
@@ -13,4 +10,16 @@ body {
 
 #girls_coding_image {
     opacity: 65%;
+}
+
+#logo {
+    width:20%;
+    background-color:white;
+    padding:1em;
+}
+
+footer {
+    margin-top: 3em;
+    border-top: 2px groove white;
+    padding-top: 1em;
 }
