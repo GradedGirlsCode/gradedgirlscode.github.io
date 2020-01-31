@@ -1,25 +1,41 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 
-
+html {
+    text-align:center;
+}
 body {
     background-color: #d21034;
     font-family: "Montserrat",sans-serif;
     color:white;
-    text-align:center;
 }
 
 #girls_coding_image {
-    opacity: 65%;
+    opacity: 75%;
+    border-radius:2px;
 }
 
 #logo {
-    width:20%;
-    background-color:white;
-    padding:1em;
+    width:25%;
+    max-width:200px;
 }
 
 footer {
-    margin-top: 3em;
-    border-top: 2px groove white;
-    padding-top: 1em;
+    max-width:800px;
+    
+    margin-top:5em;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#logo-image {
+    background-color:#dadada;
+    border-radius:10px;
+    padding-top:.5em;
+    padding-bottom:.5em;
+}
+
+#footer-text {
+    font-size:.75rem;
+    color:white;
+    text-decoration:none;
 }
