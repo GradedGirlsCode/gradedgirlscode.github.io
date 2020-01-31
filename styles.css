@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+
+h1, h2 {
+    margin: 0 auto;
+}
+body {
+    background-color: #d21034;
+    font-family: "Montserrat",sans-serif;
+    color:white;
+    text-align:center;
+}
+
+#girls_coding_image {
+    opacity: 65%;
+}
